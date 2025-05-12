@@ -1,4 +1,4 @@
-package com.surya.inventory_management_svc;
+package com.surya.inventory.management.svc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
